@@ -1,2 +1,2 @@
-# Designing for Mass Appeal: User Behavior Insights in Broadway-to-Film Adaptations
+# Consumer Behavior Insights in Broadway-to-Film Adaptations 
 Project examines what impacts the financial success of Hollywood Films that are adapted from critically acclaimed Broadway Musicals. Please see the file "BroadwaytoFilm.pdf"
